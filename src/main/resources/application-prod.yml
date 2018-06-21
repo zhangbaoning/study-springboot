@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /test1
+cupSize: A
+content: 罩杯为${cupSize}
+girl:
+  cupSize: B
+  age: 18
